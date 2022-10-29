@@ -1,0 +1,2 @@
+link = link[::-1].replace("®", "raw").replace("♦", "https:").replace("È", "ste").replace("Ç", "/").\
+    replace("½", ".com").replace("æ", "pa")
